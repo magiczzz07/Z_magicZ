@@ -53,8 +53,15 @@ Tải về file `Z_magicZ.exe` từ mục Release. Không cần cài đặt — 
 * Muốn xóa, bấm **Xóa** — phần mềm sẽ tự dọn dẹp sạch sẽ trên ổ đĩa.
 
 ---
-## 🛡 Bảo mật
-Phiên bản phân phối trên GitHub là bản build Portable đã được mã hóa (obfuscated). Code không can thiệp sâu vào nhân hệ thống của Zalo nên tuyệt đối an toàn và không lo bị khóa tài khoản.
+## ⚠️ Tuyên bố miễn trừ trách nhiệm
+
+> **Z_magicZ** hiện đang trong giai đoạn thử nghiệm và phát triển liên tục.
+> 
+> Phần mềm được cung cấp nguyên trạng **"AS IS"** — không đi kèm bất kỳ cam kết hay bảo đảm nào. Tác giả **không chịu trách nhiệm** đối với mọi rủi ro phát sinh trong quá trình sử dụng, bao gồm nhưng không giới hạn: bị khóa tài khoản, mất dữ liệu, hay bất kỳ thiệt hại nào liên quan đến tài khoản Zalo của bạn.
+> 
+> Bằng việc tải về và sử dụng, bạn đồng ý tự chịu hoàn toàn rủi ro và hiểu rằng đây là công cụ cá nhân, không liên kết với Zalo/VNG Corporation.
+
+Bản build Portable trên GitHub đã được mã hóa (obfuscated) để bảo vệ mã nguồn.
 
 <p align="center">
   <i>Created By 💙 <b>MagicZ</b></i>
