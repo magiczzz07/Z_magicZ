@@ -61,7 +61,6 @@ Tải về file `Z_magicZ.exe` từ mục Release. Không cần cài đặt — 
 > 
 > Bằng việc tải về và sử dụng, bạn đồng ý tự chịu hoàn toàn rủi ro và hiểu rằng đây là công cụ cá nhân, không liên kết với Zalo/VNG Corporation.
 
-Bản build Portable trên GitHub đã được mã hóa (obfuscated) để bảo vệ mã nguồn.
 
 <p align="center">
   <i>Created By 💙 <b>MagicZ</b></i>
