@@ -53,6 +53,28 @@ Tải về file `Z_magicZ.exe` từ mục Release. Không cần cài đặt — 
 * Muốn xóa, bấm **Xóa** — phần mềm sẽ tự dọn dẹp sạch sẽ trên ổ đĩa.
 
 ---
+
+## 🛡️ Lưu ý khi mở lần đầu — Windows SmartScreen
+
+Khi tải về và chạy `Z_magicZ.exe` lần đầu tiên, bạn có thể thấy cửa sổ **"Windows protected your PC"** với màu xanh hoặc đỏ. **Đây không phải virus** — đây là cơ chế bảo vệ mặc định của Windows dành cho mọi phần mềm chưa có chứng chỉ số thương mại (giống y như hàng trăm phần mềm indie/open-source khác).
+
+### Cách xử lý:
+1. Nhấn vào dòng chữ **"More info"** (Thông tin thêm).
+2. Kiểm tra mục **Publisher** hiển thị: `MagicZ Software` ← đây chính là tác giả.
+3. Nhấn **"Run anyway"** (Vẫn chạy) để mở ứng dụng.
+
+> 💡 **Chỉ cần làm 1 lần** — Windows sẽ ghi nhớ và không hỏi lại ở các lần sau.
+
+### Tại sao lại báo?
+| Nguyên nhân | Giải thích |
+|-------------|------------|
+| Phần mềm mới | SmartScreen chưa có đủ dữ liệu tải về để đánh giá "uy tín" |
+| Chưa có chứng chỉ thương mại | Chứng chỉ số EV (Extended Validation) có giá ~$200-400/năm — chưa cần thiết cho dự án cá nhân |
+| File `.exe` tải từ Internet | Windows đánh dấu mọi file tải về bằng "Zone Identifier", kích hoạt SmartScreen |
+
+> 🔒 Mã nguồn Z_magicZ **không chứa mã độc**, không gửi dữ liệu ra bên ngoài, không can thiệp vào hệ thống Zalo. Phần mềm chỉ thao tác tạo Windows User và copy thư mục — hoàn toàn minh bạch.
+
+---
 ## ⚠️ Tuyên bố miễn trừ trách nhiệm
 
 > **Z_magicZ** hiện đang trong giai đoạn thử nghiệm và phát triển liên tục.
